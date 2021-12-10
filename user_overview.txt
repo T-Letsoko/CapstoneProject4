@@ -1,0 +1,10 @@
+Total number of users: 1
+Total number of tasks: 2
+
+Assigned to: admin
+Total number of task: 2
+% for total number of tasks: 100%
+% for completed tasks: 50%
+% for uncompleted tasks: 50%
+% for overdue tasks: 50%
+
